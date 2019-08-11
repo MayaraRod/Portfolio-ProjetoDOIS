@@ -1,0 +1,7 @@
+{
+  "name": "previsaoTempo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

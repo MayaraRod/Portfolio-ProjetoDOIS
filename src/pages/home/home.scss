@@ -1,0 +1,35 @@
+page-home {
+    .scroll-content{
+        background-color: rgb(144, 188, 248);
+        .body{
+            text-align: center;
+            position: relative;
+            width: 100%;
+            height: 100%;
+            
+    }
+    .logo{
+        position: relative;
+                width: 80vw;
+                height: 40vw;
+                margin-top: 5vh;
+                display: inline-block;
+                background-image: url("../assets/imgs/tempo.png");
+                background-size: cover;
+                border-radius: 5%;
+                margin-bottom: 5px;
+
+    }
+    ion-item {
+        text-align: center;
+        text-decoration-color: antiquewhite;
+        background-color: inherit;
+        padding-left: 0px;
+        
+        }
+    }
+    .btn-visualizar {
+        margin-top: 15px;
+    }
+
+}

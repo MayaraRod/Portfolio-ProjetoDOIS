@@ -1,0 +1,11 @@
+page-lista-previsao {
+.imagem,.dia-clima,.temperatura{
+    display: inline-block;
+ }
+.temperatura{
+  float: right;
+ }
+.imagem{
+    font-size: 23pt;
+ }
+}
